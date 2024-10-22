@@ -1,15 +1,15 @@
 > ## *Muhammad Usman Aziz*
 > <div >
-  <img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanaziz113&theme=transparent"/>
+  <img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UsmanDesigner&theme=transparent"/>
 </div>
 
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanaziz113&theme=transparent" alt="Repos per Language" style="width:48%" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmanaziz113&theme=transparent" alt="Most Commit Language" style="width:48%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UsmanDesigner&theme=transparent" alt="Repos per Language" style="width:48%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UsmanDesigner&theme=transparent" alt="Most Commit Language" style="width:48%" /> 
 </div>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaziz113&layout=compact&theme=transparent" alt="Most Used Languages" style="width:48%" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=usmanaziz113&theme=transparent" alt="Stats" style="width:48%" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanDesigner&layout=compact&theme=transparent" alt="Most Used Languages" style="width:48%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UsmanDesigner&theme=transparent" alt="Stats" style="width:48%" /> 
 </div>
 ## Goto Stack
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
@@ -67,6 +67,6 @@
 ## Contacts
 [![Outlook](https://img.shields.io/static/v1?message=EMAIL&logo=maildotru&label=&color=0072C6&logoColor=white&labelColor=&style=for-the-badge)](mailto:usmanaziz.designer@gmail.com)
 [![WhatsApp](https://img.shields.io/static/v1?message=WHATSAPP&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+923096313133)
-[![Discord](https://img.shields.io/static/v1?message=DISCORD&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/usmanaziz.r)
+[![Discord](https://img.shields.io/static/v1?message=DISCORD&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/usmanaziz.)
 [![Facebook](https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/uaziz6342)
 [![LinkedIn](https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://pk.linkedin.com/in/usman-aziz-designer)
